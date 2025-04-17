@@ -71,3 +71,7 @@ python3 src/xbox_controller.py
 ```bash
 python3 src/px4_interface.py
 ```
+
+## Support
+For issues and questions, please open an issue in this repository.
+
